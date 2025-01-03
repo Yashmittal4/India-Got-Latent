@@ -17,8 +17,6 @@ India Got Latent is a revolutionary talent show platform hosted by renowned come
 - [Development](#development)
 - [Testing](#testing)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About the Show
