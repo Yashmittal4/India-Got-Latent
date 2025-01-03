@@ -224,18 +224,10 @@ npm run test:e2e
 
 We use Vercel for deployment. The main branch is automatically deployed to our production environment.
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any queries, please reach out to us at contact@indiagotlatent.com
+For any queries, please reach out to us at yashmittal4949@gmail.com
 
 ---
 
-Made with ❤️ by the India Got Latent Team
+Made with ❤️ enjoy ,laugh and keep connected!!
